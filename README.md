@@ -20,6 +20,11 @@ A full stack MERN application where users can manage business leads easily.
 
 ## How to Run
 
+## Clone Repository
+
+```bash
+git clone https://github.com/zahir-codes/repo-name.git
+
 ### Backend
 Run in backend/server folder:
 ```bash
